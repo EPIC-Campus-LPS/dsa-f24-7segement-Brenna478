@@ -17,5 +17,5 @@ h = ("hello")
 #using two functions to display the input and "hello" is neccessary
 tm.scroll (h, delay=250)
 tm.scroll(s, delay=250)
-#use the sleep function to end the display
+#use the sleep function to end the display after 2 seconds
 time.sleep(2)
